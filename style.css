@@ -1,0 +1,18 @@
+.contenedor {
+    max-width: 380px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background-color: #fff;
+}
+.logo {
+    display: block;
+    margin: 0 auto 20px auto;
+    max-width: 150px;
+}
+#mensaje-error {
+    display: none;
+    color: slateblue;
+    margin-top: 10px;
+}
